@@ -18,6 +18,8 @@ Raised $11.60M Funding!!
 
 ➖ Click "Create the wallet"
 
+![Image](https://github.com/user-attachments/assets/dbceb314-1717-4a07-90b0-d883f017be1d) ![Image](https://github.com/user-attachments/assets/dbceb314-1717-4a07-90b0-d883f017be1d) ![Image](https://github.com/user-attachments/assets/dbceb314-1717-4a07-90b0-d883f017be1d) ![Image](https://github.com/user-attachments/assets/dbceb314-1717-4a07-90b0-d883f017be1d)
+
 # Start Testnet tasks
 
 ⭕✨ Go to : https://naorisprotocol.network/testnet
