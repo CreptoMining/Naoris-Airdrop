@@ -2,8 +2,6 @@
 
 Raised $11.60M Funding!!
 
-![Image](https://github.com/user-attachments/assets/554fc40c-623c-4e58-bf08-bb956fafb6d8)
-
 # Add wallet & Sign-up
 
 ➖ Go to : https://chromewebstore.google.com/detail/naoris-protocol-wallet/dbgibbbeebmbmmhmebogidfbfehejgfo
