@@ -18,7 +18,10 @@ Raised $11.60M Funding!!
 
 ➖ Click "Create the wallet"
 
-![Image](https://github.com/user-attachments/assets/dbceb314-1717-4a07-90b0-d883f017be1d) ![Image](https://github.com/user-attachments/assets/dbceb314-1717-4a07-90b0-d883f017be1d) ![Image](https://github.com/user-attachments/assets/dbceb314-1717-4a07-90b0-d883f017be1d) ![Image](https://github.com/user-attachments/assets/dbceb314-1717-4a07-90b0-d883f017be1d)
+![Image](https://github.com/user-attachments/assets/184aee08-c44b-4435-8588-30c96fd064bb)
+![Image](https://github.com/user-attachments/assets/5cb84e4f-978f-4cdf-adf4-6085586b6f2f)
+![Image](https://github.com/user-attachments/assets/e585f559-1ece-4b33-9690-33ed8536d073)
+![Image](https://github.com/user-attachments/assets/dbceb314-1717-4a07-90b0-d883f017be1d)
 
 # Start Testnet tasks
 
