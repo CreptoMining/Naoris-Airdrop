@@ -18,10 +18,10 @@ Raised $11.60M Funding!!
 
 ➖ Click "Create the wallet"
 
-![Image](https://github.com/user-attachments/assets/184aee08-c44b-4435-8588-30c96fd064bb)
-![Image](https://github.com/user-attachments/assets/5cb84e4f-978f-4cdf-adf4-6085586b6f2f)
-![Image](https://github.com/user-attachments/assets/e585f559-1ece-4b33-9690-33ed8536d073)
-![Image](https://github.com/user-attachments/assets/dbceb314-1717-4a07-90b0-d883f017be1d)
+<img src="https://github.com/user-attachments/assets/184aee08-c44b-4435-8588-30c96fd064bb" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/5cb84e4f-978f-4cdf-adf4-6085586b6f2f" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/e585f559-1ece-4b33-9690-33ed8536d073" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/dbceb314-1717-4a07-90b0-d883f017be1d" width="200" height="200">
 
 # Start Testnet tasks
 
@@ -47,6 +47,11 @@ Raised $11.60M Funding!!
 
 ➖ Follow NaorisProtocol
 
+<img src="https://github.com/user-attachments/assets/eacd4c08-fc6d-459c-984f-caa445609232" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/3c97f638-24b8-49c1-8f71-7e0562a4d3fb" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/81ce01ae-986d-4706-a655-f478a00ec404" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/bc0a5ef7-1e0f-47e5-b9e1-0b3b2999a074" width="200" height="200">
+
 # Claim points
 
 ➖ Click "Points......"
@@ -54,6 +59,9 @@ Raised $11.60M Funding!!
 ➖ Enter password
 
 ➖ Click "Sign"
+
+<img src="https://github.com/user-attachments/assets/f6216576-67b2-42b2-af41-ee0691d0a469" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/920ad361-c96d-4704-a77c-0099001b6513" width="200" height="200">
 
 # Galxe Quests
 
@@ -68,3 +76,5 @@ Raised $11.60M Funding!!
 ➖ https://app.galxe.com/quest/NaorisProtocol/GC3vJtvENC?referral_code=GRFr2IwjpWm_3v1j5tuJoyBm85kEI7is-VAI618RKXyuK4r
 
 👉 Quiz: A, B, C, B, B, B, C, C, B, B https://pic.x.com/JXwtzZ4gam
+
+<img src="https://github.com/user-attachments/assets/70ded595-9f06-459f-9ffe-0c76d6b73448" width="400" height="200">
