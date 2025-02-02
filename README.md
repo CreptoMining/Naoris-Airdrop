@@ -33,9 +33,7 @@ Raised $11.60M Funding!!
 
 ➖ Click "Start Testnet"
 
-![Image](https://github.com/user-attachments/assets/22c1c93c-ff17-4245-9317-03f5c82b065d)
-![Image](https://github.com/user-attachments/assets/639b5064-f7a1-4851-b084-be4bda2a79f7)
-![Image](https://github.com/user-attachments/assets/927891d9-e1e8-43f0-9429-657014e75879)
+![Image](https://github.com/user-attachments/assets/22c1c93c-ff17-4245-9317-03f5c82b065d) ![Image](https://github.com/user-attachments/assets/639b5064-f7a1-4851-b084-be4bda2a79f7) ![Image](https://github.com/user-attachments/assets/927891d9-e1e8-43f0-9429-657014e75879)
 
 # Testnet tasks
 
